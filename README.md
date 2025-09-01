@@ -2,6 +2,7 @@
 
 This repository contains a hands-on project that applies Generative AI prompt engineering to perform end-to-end data analysis on the Titanic dataset.
 
+
 📂 What’s Inside
 
 Titanic_Data_Analysis_Workbook.ipynb – Google Colab notebook with Python code for data loading, cleaning, statistical analysis, and visualizations.
@@ -11,6 +12,7 @@ Titanic_Prompt_Guidebook.pdf – A structured PDF guide of strong prompts crafte
 Titanic_Analysis_Report.pdf – A report with prompts, outputs, and visualizations.
 
 titanic.csv – The dataset used for the analysis.
+
 
 🧑‍💻 Project Tasks
 
@@ -24,6 +26,7 @@ Univariate Analysis – Histogram of Age distribution
 
 Bi-variate Analysis – Survival rate by Sex
 
+
 🎯 Key Learning Outcomes
 
 Practice in prompt engineering for structured analysis tasks
@@ -32,7 +35,8 @@ Automated Python code generation from well-designed prompts
 
 Combining data analysis & visualization with AI-driven workflows
 
-Delivering outputs as PDF reports & Colab notebooks
+Delivering outputs as PDF reports & Colab 
+
 
 🚀 How to Use
 
